@@ -1,0 +1,37 @@
+	@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+	@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+		body{
+			width: 300px;
+			height: 1000px;
+			margin: auto;
+			background: linear-gradient(green, blue);
+		}
+		h1{
+			border-bottom: 1px solid black;
+			font-family: 'Dancing Script', cursive;
+			margin-top: 170px;
+			font-size: 35px;
+		}
+
+		.btn{
+			width: 70px;
+			height: 70px;
+			font-size: 30px;
+		}
+		.btnSet{
+			margin-top: 10px;
+			margin-left: 40px;
+		}
+		.shuffleBtn{
+			width: 70px;
+			height: 30px;
+			margin-top: 20px;
+			margin-left: 190px;
+			font-family: 'Dancing Script', cursive;
+			font-size: 20px;
+		}
+		#msg{
+			font-family: 'Righteous', cursive;
+			font-size: 20px;
+			margin-top: 20px;
+		}
